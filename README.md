@@ -2,7 +2,7 @@
 
 🎮 Gosto de Touhou, música e jogos.
 
-💻 Estou aprendendo a programar, focando em C e desenvolvimento web.
+💻 Estou aprendendo a programar, focando em C, Python e desenvolvimento web.
 
 📝 Tenho projetos no GitHub e certificados para mostrar minha evolução.
 
