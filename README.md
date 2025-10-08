@@ -46,8 +46,6 @@ Vamos nos conectar, trocar conhecimento e quem sabe, colaborar em um projeto! Si
 
 [![Portfólio Completo](https://img.shields.io/badge/Portfólio%20Completo-Página%20Pessoal-e94560?style=for-the-badge&logo=github&logoColor=white)](https://shinylucasin.github.io/shinylucasin-pages)
 
----
-
 ### 🤝 Minhas Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366/)
