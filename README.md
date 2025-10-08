@@ -31,7 +31,7 @@ Tenho projetos ativos no GitHub e certificados que demonstram minha evolução e
 
 ## 🎮 Interesses e Conexões
 
-- **Hobbies:** Touhou, música (J-Rock/Metal), jogos de PC e console, mangás/animes e explorar novas tecnologias.
+- **Hobbies:** Touhou, músicas (Pop, Rock, Eurobeat, etc.), jogos de PC, mangás/animes, entre outras coisas.
 - **Citação Favorita:** *"Shrine Maiden who protects dreams and traditions"* ~ Reimu Hakurei
 
 ---
