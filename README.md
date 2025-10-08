@@ -46,7 +46,7 @@ Vamos nos conectar, trocar conhecimento e quem sabe, colaborar em um projeto! Si
 
 [![Portfólio Completo](https://img.shields.io/badge/Portfólio%20Completo-Página%20Pessoal-e94560?style=for-the-badge&logo=github&logoColor=white)](https://shinylucasin.github.io/shinylucasin-pages)
 
-<br>
+---
 
 ### 🤝 Minhas Redes
 
