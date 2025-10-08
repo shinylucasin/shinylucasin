@@ -38,8 +38,6 @@ Tenho projetos ativos no GitHub e certificados que demonstram minha evolução e
 
 ### 🌐 Veja meu Portfólio Completo
 
-**-> Seu site com tema escuro e detalhes! <-**
-
 [![Portfólio Completo](https://img.shields.io/badge/Portfólio%20Completo-Página%20Pessoal-e94560?style=for-the-badge&logo=github&logoColor=white)](https://shinylucasin.github.io/shinylucasin-pages)
 
 ---
