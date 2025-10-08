@@ -21,4 +21,6 @@ Vamos nos conectar e trocar conhecimento!
 
 📫 **Conecte-se comigo:**
 | [LinkedIn](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366) | 
+| [YouTube](https://www.youtube.com/c/LucasinXablau) |
+| [Spotify](https://open.spotify.com/user/efvf8l4lxkdmw14d29dlsnw6w?si=f44f70fc183f45b3) |
 | Discord: `shinylucasin` |
