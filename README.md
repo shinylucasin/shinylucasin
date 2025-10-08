@@ -16,10 +16,12 @@ Tenho projetos no GitHub e certificados que demonstram minha evolução e dedica
 #### 🎮 Interesses e Conexões
 - **Hobbies:** Touhou, músicas, jogos, mangás, etc.
 - **Citação:** *"Shrine Maiden who protects dreams and traditions"* ~ Reimu Hakurei
-
-Vamos nos conectar e trocar conhecimento!
+  
+---
 
 📫 **Conecte-se comigo:**
+
+Vamos nos conectar e trocar conhecimento!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LucasinXablau)
