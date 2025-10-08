@@ -1,4 +1,4 @@
-# 💻 Olá! Eu sou o Lucas Miguel 👋
+# 💻 Olá! Eu sou Lucas Miguel. 👋
 
 ### Estudante de Ciência da Computação | Focado em C, Python e Web
 
