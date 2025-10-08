@@ -1,18 +1,23 @@
-👋 Olá! Sou Lucas, estudante de Ciência da Computação na Estácio.
+# 💻 Olá! Eu sou o Lucas Miguel 👋
 
-🎮 Gosto de Touhou, música e jogos.
+### Estudante de Ciência da Computação | Focado em C, Python e Web
 
-💻 Estou aprendendo a programar, focando em C, Python e desenvolvimento web.
+Sou um estudante na **Estácio** apaixonado por tecnologia e em constante aprendizado.
 
-📝 Tenho projetos no GitHub e certificados para mostrar minha evolução.
+Minha jornada de programação está concentrada em:
+- **Linguagem C:** Para entender a base e a eficiência.
+- **Python:** Para automação e desenvolvimento rápido.
+- **Desenvolvimento Web:** Para criar interfaces e soluções.
 
-✨ "Shrine Maiden who protects dreams and traditions" ~ Reimu Hakurei
+Tenho projetos no GitHub e certificados que demonstram minha evolução e dedicação.
 
-📫 Vamos nos conectar?  
-[LinkedIn](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366) | Discord: shinylucasin
+---
+#### 🎮 Interesses e Conexões
+- **Hobbies:** Touhou, música e jogos.
+- **Citação:** *"Shrine Maiden who protects dreams and traditions"* ~ Reimu Hakurei
 
+Vamos nos conectar e trocar conhecimento!
 
-<!---
-shinylucasin/shinylucasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Conecte-se comigo:**
+| [LinkedIn](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366) | 
+| Discord: `shinylucasin` |
