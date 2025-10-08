@@ -36,17 +36,17 @@ Tenho projetos ativos no GitHub e certificados que demonstram minha evolução e
 
 ---
 
-## 📫 Conecte-se Comigo!
-
-Vamos nos conectar, trocar conhecimento e quem sabe, colaborar em um projeto! Sinta-se à vontade para me mandar uma mensagem.
-
 ### 🌐 Veja meu Portfólio Completo
 
 **-> Seu site com tema escuro e detalhes! <-**
 
 [![Portfólio Completo](https://img.shields.io/badge/Portfólio%20Completo-Página%20Pessoal-e94560?style=for-the-badge&logo=github&logoColor=white)](https://shinylucasin.github.io/shinylucasin-pages)
 
-### 🤝 Minhas Redes
+---
+
+## 📫 Conecte-se Comigo!
+
+Vamos nos conectar, trocar conhecimento e quem sabe, colaborar em um projeto! Sinta-se à vontade para me mandar uma mensagem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LucasinXablau)
