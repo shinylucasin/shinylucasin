@@ -3,6 +3,7 @@
 ### Estudante de Ciência da Computação | Focado em C, Python e Web
 
 Sou um estudante na **Estácio** apaixonado por tecnologia e em constante aprendizado.
+---
 
 Minha jornada de programação está concentrada em:
 - **Linguagem C:** Para entender a base e a eficiência.
