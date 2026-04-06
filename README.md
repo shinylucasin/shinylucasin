@@ -13,7 +13,7 @@
 ![Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=shinylucasin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true_title=true)
 
 ### 🚀 Tecnologias e Ferramentas
-![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shinylucasin&layout=compact&theme=tokyonight&hide=html,css&hide_title=true)
+![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shinylucasin&layout=compact&theme=tokyonight&hide_title=true&langs_count=10)
 
 <div style="display: inline-block">
   <img align="center" alt="C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
