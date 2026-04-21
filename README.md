@@ -1,8 +1,6 @@
 # 👋 Opa, eu sou o Lucas
 
-<img align="right" width="85" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs3Z2F0YmN6bGQzOXdpZHgzYWhhdHB3Z2Z6NjV1MDN2cHhid280NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdPIEz3rPuiETGlt42/giphy.gif" style="margin-bottom: -110px;">
-
-
+<img align="right" width="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs3Z2F0YmN6bGQzOXdpZHgzYWhhdHB3Z2Z6NjV1MDN2cHhid280NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdPIEz3rPuiETGlt42/giphy.gif" style="margin-bottom: -110px;">
 
 💻 **Acadêmico:** Cursando Ciência da Computação na Estácio  
 🚀 **Foco:** Desenvolvimento Front-end  
@@ -15,7 +13,7 @@
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shinylucasin&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shinylucasin&show_icons=true&theme=tokyonight"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinylucasin&layout=compact&theme=tokyonight"/>
 </p>
