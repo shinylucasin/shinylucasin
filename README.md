@@ -15,9 +15,9 @@
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shinylucasin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shinylucasin&show_icons=true&theme=tokyonight&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinylucasin&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinylucasin&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🚀 Tecnologias e Ferramentas
@@ -35,11 +35,9 @@
 
 ## 🌐 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LucasinXablau)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/E2csXY2aCq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmaeepai@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/LucasinXablau"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://discord.gg/E2csXY2aCq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:lucasmaeepai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
